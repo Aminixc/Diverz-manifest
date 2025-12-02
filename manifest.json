@@ -4,7 +4,7 @@
   "changelog": "",
   "minVersion": "1.0.0",
   "downloads": {
-    "win32": "",
+    "win32": "https://github.com/Aminixc/Diverz-manifest/releases/download/1.0.0/DiverzSetup-v1.exe",
     "darwin": "",
     "Linux": ""
   },
