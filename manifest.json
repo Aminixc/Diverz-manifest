@@ -2,7 +2,7 @@
   "version": "2",
   "releaseDate": "02-12-2025",
   "changelog": "",
-  "minVersion": "1.0.0",
+  "minVersion": "",
   "downloads": {
     "win32": "https://github.com/Aminixc/Diverz-manifest/releases/download/1.0.0/DiverzSetup-v1.exe",
     "darwin": "",
